@@ -11,6 +11,7 @@ Examples of code snippets for consultations and studies.
 - C
 - PHP
 - SQL
+- Python
 
 ## Note 
 This repository serves as a basis for storing parts of codes or files containing content that the author believes may be useful in the future.
